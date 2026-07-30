@@ -8,7 +8,7 @@ Bienvenue à ce projet qui a pour but de mettre en place un Data Warehouse perme
 ## 🏗️ Architecture de données utitilsé
 
 vue globale de l'architecture en medaillon
-!\[Data Architecture](img/DHW.png)
+!\[Data Architecture](img/DWH.png)
 
 1. La Partie **BRONZE**: On Stocke les données brutes sans les modifier. Les données sont ingérées à partir de fichiers excel dans la base de données SQL Server.
 
